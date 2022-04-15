@@ -1,0 +1,70 @@
+Hi. Welcome back In the previous task, we've calculated our
+free cash flows to the company.
+In this final task, we're going to calculate the enterprise
+failure, the Equity Valley and a fair value per share off the
+company.
+So we'll see.
+How much does it actually wars?
+So for calculating the MPV.
+So what is actually this NPV?
+We used to think gold.
+Ah, Time Valley off money, which implies that in $100 in the
+future, they're worth less then $100 today because of
+different factors such as inflation, then just opportunity
+cost of putting this $100 in the bank, for example.
+So investors will need to return for that.
+So that's why the hot the further you go, the less this money
+is actually worth back to today on to calculate that we need
+discounting rate.
+And for this we use the ready to average cost of capital
+which will use as the minimum rate which is required by the
+stakeholders, be to shareholders or depth holders to get to
+return from the company.
+So for this, we use the NPV function and first week at the
+peace country.
+No, Chris, uh huh?
+Around, then Just get this Cash flows great.
+And this is the enterprise value of the company.
+Now, in order to see how much the company is worth, we should
+plus the cash and cash equivalents.
+So let's get those on a of them under assets.
+We have cash and cash equivalents here and adept on.
+We have depth here.
+So was adept on the liabilities.
+We have our long term.
+So we have a total depth and we have our grant Barrish ing
+Koren abortion off over long term depth.
+Now we have short term Dept.
+Okay, so this are dark related to depth.
+Okay, so get this minus are adept on.
+No, we have here how many Shias we have on because this is
+all calculated in millions.
+As you can see here, I have good goat for you.
+How many Shias just be outstanding.
+Does BMW have to right now, Andrea?
+Market price as off 13th of December, 2019.
+So let's just do this on this is the fair value.
+Your shear off BMW as if the under 2019 on this is solid.
+Based on our assumptions and funding on the DCF model, so
+then we can calculate the growth.
+Um, what we see basically, is that it will decrease the so,
+uh, it is worth less, Stan, that this actually on the market
+so we can put a what we can dio Yes.
+We can use your recommendation to sell at this price.
+Great again.
+This is not an investment advice on.
+I've just showed it just so that you aren't familiar with the
+mechanics off how the DCF model is done.
+And now you are equipped with the skills Teoh, After the your
+after you have done a thorough research of the company, you
+can build this model on dhe si the subjective opinion on the
+value off the company shares on with the skills that you've
+gained in this course and the course of cultivate the average
+cost of capital, you can now, ah, cracks the technical part
+off the investment banking and equity research interviews
+that are connected to the DCF model.
+So thank you.
+On stay updated with my future courses.
+Thank you for taking this course on.
+I'll see you.
+Bye.

@@ -1,0 +1,123 @@
+Welcome back in the previous DOS have calculated our terminal
+value and this task we're going Teoh finally calculate
+the free cash flows to the company.
+So let's go back to the formula.
+A free cash flows close to Abbott, multiplied
+by one minus tax rates so much but our tax shield.
+We already know this concept from the with the average cost
+of capital.
+And then we add the depreciation and amortization we
+minus the net Capex and we minus thing Christian working
+capital.
+This fellow's should be positive.
+So when they're negative, we should sleep the signs on dhe
+when it's not just, ah when it's a change in working
+capital, So this is basically decrease in pork in capital.
+We should minus this degrees in order to add it back.
+So we just flip the sign basically two times.
+Let's do that.
+Abbott multiplied by one minus or taxes.
+Um, this is our tax shield, and we add back the appreciation
+and then because this is already negative this hour net
+capital expenditure.
+We should minus the net capital expenditure.
+But because it's a cash flow, it's already negative.
+So where when we lost this, this is substrate did and then
+by minus our decrease in a working capital because this is
+in a negative.
+And then when we minus when we do a double minus than it's
+a plus, I hope the mechanics is queer here.
+If it would have seen an increase and it would have been
+positive, then we've also minus did just to, um, to get rid
+off this effect off, um, changes in the working capital.
+So why would do this?
+Why way Plus the why do we add back the depreciation
+and amortization and minus signet cutbacks
+at minus the change of working capital?
+Why is this done?
+Well, this is in order to get the we start from the Abbott
+and then we at this back, and we reverse the changes that the
+that the basically the cruel accounting system does.
+Ah, we go back to a cash based accounting system, So then
+we get our cash flows and no, just the book values
+that we have on our company.
+But the rial money that we get and we need that for valuation
+them. We just right here on dhe.
+Yeah, we have our free cash flows through the company
+concrete on, then what we will do then, as will calculate
+the NPV.
+Both our free cash flows and for things will need
+the weighted average cost of capital for a discovery.
+So let's talk about the weighted average cost of capital
+a little bit.
+This was already chord in one of my ah guided projects,
+but just adore a fresher, weighted average cost of capital is
+basically a minimum threshold.
+Return for both the equity and depth investors on dhe.
+How we calculated ISS.
+We just take the weight, the relative weight off, the
+the cost of equity and the relative weight of the cost
+of tapped.
+And how each of this is calculated as for the cost of depth.
+While you either take the depth payments from your balance
+sheet, or you can just take the Pontes off the relative
+company, look at their coupon and then you multiplied
+by the tax shield for the cost of fact.
+But it's a little bit more complicated what you dio
+as you have, ah, risk free rate on dhe.
+This is a basic, uh, cost that you should account for,
+and then you look at the risk equity risk premium.
+So risk a rate we've taken the yearly risk free rate
+in Germany in 2019 and for market risk premium, you already
+have it.
+Also, you can google it and then you calculate the better.
+So we've calculated an introduction to valuation with weight
+average cost of capital course.
+So throughout several ways to calculate the better.
+Ah, the best.
+The most accurate way that we have done in the previous
+course as we get the cove Arians.
+So resist there Bavarians off Ah, the company's returns.
+So BMW recurrence on the index recurrence.
+This was tax.
+So we just take this to erase and then he divided by variants
+off the improbable Richards.
+And then you get the Peter and this was the better
+that we felt weighted.
+So this better basically what it means, IHS how much
+the company is the company's returns.
+I'm like, impacted by the change in the market conditions.
+So the market goes down.
+The basically 0.5 better means that it will only go down
+by half if it on so you don't is the risk.
+Here is last time the risk off the whole market, the higher
+the better the higher the risk and basically the higher you
+can get the potential return.
+It is how much the company is impacted by the vary abilities
+of the market.
+This is a systematic risk and not an unsystematic one.
+And these concepts Authority office also covered
+in the previous course.
+So the other way to calculate the better ISS to Google
+the respective better in that industry on you get this
+better, but it has a different depth to equity ratio.
+So what you do is that you unlived with the better you
+so you clean the better that you've Googled from this Ah,
+leveraging effects from the step to equity ratio.
+So you assume that it's all equity and you remove the depth
+on dhe, then you at the depth that you have for your company.
+So basically, you calibrate the better the average better
+for your company.
+But again, the best way is just to get the returns
+off the company stocks.
+If it's publicly released it, it's perfectly, um, it is
+the perfect way to do that.
+You get the returns off this company and for the market.
+So for this for BMW, it's the tax index and then
+it calculated.
+So they say, Spot, we will use as a discount great.
+Here on in the next DOS sprayer, Going to finally calculate
+how much the BMW shares worth again again, um, according
+to our assumptions.
+Great. Thank you.
+And see you in the next mosque.

@@ -1,0 +1,106 @@
+I welcome back and this task we're going to first talk
+about the company we are analyzing on.
+Then we'll see the financials off this company on.
+Transpose them here on talk about some assumptions that
+will have to value the company so many of you would already
+be familiar with the company.
+That's BMW.
+We have looked at this company on two off our another project
+based courses, the one about the ray cious analysis
+on the performance.
+Nellis on the other one on the introduction to Valuation Ways.
+W with the weighted average cost of capital on So we have
+here the income statement off BMW.
+Now we have balance sheet and occasional statement, and those
+are for the years of 16 2004 to 2019.
+Ideally, in order to do that, um, discount occasional
+modeling key would have five or more years.
+But this will also work just to show you how the discounted
+cash more modeling works just to shoulder mechanics.
+So let's start with transposing our financials here on Let's
+start with the tux rate, as we've already done it
+in the previous course here in the introduction
+to valuation, so but just to talk about how this is derived.
+Ah, we just go here on dhe.
+We have here all war taxes.
+Just a moment.
+Yeah. Here.
+So this is our taxes.
+And then we just divided by our net income before taxes.
+We can just know blanket here very well.
+Now, listening the revenue and don't look breeding expenses
+as well.
+We're having these here on total operating expenses.
+We're here, and then Abbot Wiccan is a link it
+to the financials or with just dick revenue and substrate
+them total operating expenses.
+And here we have our abbot and then revenue growth
+and expenses growth.
+So why we needed as because this will be our main assumptions
+for the growth of the company.
+Ideally, you do a research briar off building cure TCF mortal
+on. Look at the drivers that first your company's
+productivity on dr your assumptions.
+So you will know why the company will grow in the future
+on by which rate.
+So you will tie that to the financials.
+But here we're just exploring the DCF mortal mechanics.
+So they were not striving to the most accurate analysis where
+it just trying to understand how it works, so revenue growth.
+Take the 2017th year divide by 2/3.
+16th year to the privacy year on this one.
+That's how we get the great get in here with expenses growth
+during the 2017th year divide by 2016th year minus one.
+Okay, so now let's find the average.
+But we'll use the average girls, the remaining assumption
+and you know what we have for gotten.
+We should also do the average for our appreciation
+and amortization, and we should do the average tax rate.
+So just let's form it this and here.
+Lips. Okay, so let's just look at this formula for a moment.
+So we're at them depreciates.
+So we have our abbot.
+We have our ducks rate, and we have part appreciate eso,
+depreciation and amortization and Capex and working capital.
+That's what we should pour gone.
+So the signs here they assumed that your values are positive.
+What? What do we have here in our cash flow statement as
+the sore sometimes negative.
+So we'll flip the sign so you should lose your just your
+logic here as well.
+So is that with depreciation and amortization around, we have
+a depreciation here.
+Uh, we have your zeros, but just let's at the amortization as
+well, in case we want to change something here to make it our
+model dynamic.
+And now let's work on net capital expenditure.
+When our KPIX here we have our capital expenditure
+and because it is a outflow from the company, this is
+negative.
+So we should not minus the negative because it will be
+positive.
+We should plus the negative.
+So because this is already negative here and then Ah, we
+should have We should minus increasing working capital.
+But if it is ah, a decrease, We should actually flip the sign.
+So, um, if we had a decrease in working capital Oh, we
+should add it back.
+So he would have are changed in working capital.
+And this are negative.
+So we're actually having a decrease in working capital
+instead of increase.
+So what we do, we flip the sign and we plus it.
+So if we minus the minus, that will be the plus.
+And that is what we need because we want to reverse
+the change.
+We want to reverse this.
+The change in working capital.
+We want to add it back in order to derive to the cash flows.
+So let's find the average.
+And they were sure this run can just do this on on our
+1,000,000 tax rate.
+Okay, so we're done with our historic financials bond.
+In the next dusk, we're going to start with four gusting
+our, um our financials in the future and next wife years.
+Thank you.
+I'll see you in the next tusk.

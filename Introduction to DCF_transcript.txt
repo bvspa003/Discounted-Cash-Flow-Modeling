@@ -1,0 +1,107 @@
+Hello, everyone, and welcome to this project on discounted
+cash flow modelling my name's Bekhruzbek Ochilov
+and a work in investment banking and equity research.
+As an analyst, I'm also the associate member
+of the Chartered Institute for Securities and Investment.
+Most of the skills that help me break into this field I got
+from from Coursera.
+That's why I'm sure that my experience in capital markets
+will be beneficial to you so that you'll grasp some skills
+that help me start my career and still help every day.
+This course, this is the part that counted cash flow
+modelling.
+It will be beneficial for everyone who is interested
+in investment banking or equity research on dhe, I hope on.
+I'm sure that the knowledge that you will gain in this course
+will be sufficient to crack the technical side
+off the investment banking, equity research or private equity
+interviews.
+Um, after the college, after taking this course, you will be
+able to build a discounted cash flow model on dhe.
+Those derive the fear price off the shears off a company
+on this value a company.
+In order to start the course, you should already know how
+to calculate the weighted average cost of capital on dhe.
+Be familiar with capital asset pricing model.
+If you do not know how to calculate the weighted average cost
+of capital, I strongly recommend to you to take my previous
+guided project but just called introduction Teoh
+in introduction to valuation with doubly a sissy with waited
+average cost of capital.
+Or you can go to the Internet on dhe.
+Learn about weighted average cost of capital yourself.
+It's a big topic on will not cover it in this project.
+So let me show you what we'll do in the course.
+So this is the black and we already have it calculated will
+already have it calculated on dhe.
+This is our mortal on dhe.
+As a purposed take the historical financials here on we do
+a forecast, but do five year forecast.
+We did to mind what our E V and to EBITA multiple should pay
+on dhe.
+This would derive to the exit value.
+We take this, we sum this up, aunt, get the, um, free cash
+flows. I'm Stan.
+We discount them all back to the present to right
+the President Valley of the free cash flows.
+That's the enterprise value.
+Then from it, we'd would get the Equity Valley and we divided
+by the number of Shias on dhe.
+We'll see how maney on BC, the fail Valya for sheer and then
+we compare to the market price to see if the companies, uh,
+under valid or if it's over valid.
+So as you see, by the end of this course, you will be able
+to tell if it is worth investing in a company or not.
+Of course, this will be highly subjective on the results
+off your valuation will be will be solely dependent on your
+assumptions on you have to work on these assumptions on your
+own. So I'm first when we start this before we even start DCF
+modeling.
+Ah, we research about the company and research what it does
+in order to deter mined our assumptions that will try
+the valuation off the company in the future.
+What will impact the revenue growth?
+What will impact the expenses grows.
+So if a company has any projects ah, planned in the future
+that it will invest in on expanding its operations.
+So this will be highly subjective on that is why, um when you
+when you see more or less similar maker methodologies.
+Uh, but you still see a very wide range off allegations
+off big companies like Apple.
+And you see, um, Tesla.
+And then you see some analysts giving a strong buy
+recommendation, some giving by recommendation, some giving
+hold recommendation and others giving sell or strong sell
+recommendations.
+So this will be highly subjective on dhe issued to prior
+research before May think you're for models,
+but in this apple, I will teach you how to actually build
+immortal on the fundamental research will be on your own.
+So stay with me, aunt.
+In the next OSK, we'll start with with our model with getting
+the historical financials.
+So what you could do now at this you go to Google's kits
+on you just so by going Teoh shits full stop, Google
+will stop.
+Come and then Hey, looking on Ready?
+You old you open a file that's in your desktop.
+So it's called DCF modeling on DDE.
+This is the file will be working on.
+So just a quick look here.
+So we have a formula here that will be the main formula
+will be working on on in the great.
+You see what will fill up and Teoh get our evaluation on some
+we have in blue some assumptions that I will tell you
+about later aunt again about the weighted average cost
+of capital.
+Ah, well, do it quick refresher.
+But ideally, what you can do if you're don't know
+I don't know what the average cost of capital is.
+Let's go to core Sarah, on dhe.
+I strongly recommend you taking the introduction to valuation
+with vary weighted average cost of capital were is
+a fundamental this course on, um, a strong record taking it
+for this project.
+So thank you.
+On. I'll see you in the next school where we'll start with,
+Ah, with transferring our financials here.

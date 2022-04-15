@@ -1,0 +1,42 @@
+Fight on.
+Welcome back in the previous task, we have forecasted
+all financials to five years.
+This task we're going to calculate our terminal value
+and the exit multiples.
+So what is this Terminal Valley, Actually?
+Well, because we cannot forecast our cash flows forever, we
+still have to full cast.
+Uh, how much will the business be worth at the end?
+So we do that basically, by our and two brass valley
+to Abbott.
+A multiple approach.
+So what this means ISS How much?
+How many years off the earnings before interest, tax,
+depreciation and amortization would need to get a full return
+on our company subjectively for German blue chip companies.
+Uh, and BMW is a German blue chip company.
+We would ideally have even to ebita multiple off 20 on.
+This is highly subjective.
+On dhe when you want to have on every two ebita multiple, you
+just google the TV to EBITA multiple for the relative size
+of for the relevant size of the company and for its interest
+rate. So we use every two ebita multiple
+of 20 for this assumption on dhe.
+Now, in order to promote to get this value, how we do that
+is is we take our rabbit, take our epic dem on Dhe Not
+in order to get EBITA, which we have here Abbot.
+Now we should add back the depreciation and amortization.
+So let's take it for the last year and at BEC appreciation
+and amortization.
+Then we multiply by our multiple on disease.
+All we get the terminal value and then we just go to our X
+value on just make or for here.
+So that will be our exit, Valya, that will use in our
+in discounting our cash flows.
+Great. So in this task with calculated our terminal value,
+that will need to know evaluation in the next OSK
+we are going, Teoh actually calculate our free cash flows
+to the company in order to, uh, get everything done
+for the final valuations.
+Thank you.
+On. I'll see you in the next task.
